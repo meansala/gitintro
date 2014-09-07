@@ -37,6 +37,8 @@ namespace GitHub2
          public void TestMethod3()
         {
            // added on cm controlled branch
+           
+           // second change on the branch
         }
     }
 }
