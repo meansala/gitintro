@@ -32,5 +32,10 @@ namespace GitHub2
         {
             // dummy method
         }
+
+        public void TestMethod2()
+        {
+            // for ccmpd1008
+        }
     }
 }
