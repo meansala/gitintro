@@ -27,5 +27,10 @@ namespace GitHub2
         
         // this change made on the master, in main github repo
         // This change made on local repo, master and pushed
+
+        public void TestMethod()
+        {
+            // dummy method
+        }
     }
 }
