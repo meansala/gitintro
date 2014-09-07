@@ -32,5 +32,11 @@ namespace GitHub2
         {
             // dummy method
         }
+        
+        
+         public void TestMethod3()
+        {
+           // added on cm controlled branch
+        }
     }
 }
